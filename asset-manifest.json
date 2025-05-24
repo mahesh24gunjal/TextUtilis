@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mahesh24gunjal/TextUtilis.git/static/css/main.839debc2.css",
+    "main.js": "/mahesh24gunjal/TextUtilis.git/static/js/main.6151b8db.js",
+    "static/js/453.ed3810f9.chunk.js": "/mahesh24gunjal/TextUtilis.git/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/mahesh24gunjal/TextUtilis.git/index.html",
+    "main.839debc2.css.map": "/mahesh24gunjal/TextUtilis.git/static/css/main.839debc2.css.map",
+    "main.6151b8db.js.map": "/mahesh24gunjal/TextUtilis.git/static/js/main.6151b8db.js.map",
+    "453.ed3810f9.chunk.js.map": "/mahesh24gunjal/TextUtilis.git/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.839debc2.css",
+    "static/js/main.6151b8db.js"
+  ]
+}
